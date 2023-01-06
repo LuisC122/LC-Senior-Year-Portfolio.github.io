@@ -1,4 +1,32 @@
-html, body {
-  height: 100%;
-  width: 100%;
+
+h1{
+font-family: 'Rubik Bubbles', cursive;
+Justify-content:center;
+Display:flex;
+border: 5px solid black;
+    background-Color:lightyellow;
+    color:red;
+}
+ul{ border-style:double;
+    padding:5px;
+    border: 5px solid black;
+    font-family:Arial;
+    background-Color:lightyellow;
+    color:red;
+}
+.Menu{
+  Display:flex;
+  Justify-content:space-around;
+  margin:50px;
+  border: 5px solid black;
+  font-family:Arial;
+  background-Color:lightyellow;
+  color:red;
+}
+img{width:800px;
+   height:400px;
+   border: 5px solid black}
+body {
+  background-color: gold;
+  text-align:center;
 }
