@@ -1,6 +1,6 @@
 
 h1{
-font-family: 'Rubik Bubbles', cursive;
+font-family: 'Kanit', sans-serif;
 Justify-content:center;
 Display:flex;
 border: 5px solid black;
@@ -10,7 +10,7 @@ border: 5px solid black;
 ul{ border-style:double;
     padding:5px;
     border: 5px solid black;
-    font-family:Arial;
+    font-family: 'Kanit', sans-serif;
     background-Color:lightyellow;
     color:red;
 }
@@ -19,7 +19,7 @@ ul{ border-style:double;
   Justify-content:space-around;
   margin:50px;
   border: 5px solid black;
-  font-family:Arial;
+  font-family: 'Kanit', sans-serif;
   background-Color:lightyellow;
   color:red;
 }
@@ -29,4 +29,8 @@ img{width:800px;
 body {
   background-color: gold;
   text-align:center;
+}
+.Labels{
+  Display:flex;
+  Justify-content:space-around;
 }
