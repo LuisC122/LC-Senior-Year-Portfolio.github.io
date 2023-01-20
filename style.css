@@ -50,3 +50,10 @@ u{
 button{
   color: purple;
 }
+p{
+  Color: purple;
+  font-size:25px;
+  font-family: 'Kanit', sans-serif;
+  Margin-left:75px;
+  margin-right:75px;
+}
